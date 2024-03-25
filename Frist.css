@@ -1,0 +1,83 @@
+
+header{
+    text-align: center;
+}
+
+body{
+    background-color: aquamarine;
+    color: white;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+
+h1{
+
+    color: blueviolet;
+    margin-left: 20px;
+}
+
+.introduction{
+color: red;
+border: 2px solid black;
+padding: 10px;
+}
+#sample{
+    color: brown;
+    text-align: center;
+
+}
+nav img{
+    height: 200px;
+    
+}
+nav{
+    background-color: yellow;
+    height: 6000px;
+    width: 200pc;
+    float: left;
+    padding: 5px;
+    line-height: 30px;
+}
+
+footer{
+    text-align: center;
+    margin-right: 200px;
+    color: orange;
+    background-color: blue;
+}
+p img{
+    margin-right: 200px;
+    height: 300px;
+}
+
+/* Header, navigation, and footer styles */
+header, nav, footer {
+    background-color: #333;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+/* Navigation link styles */
+nav a {
+    color: #fff;
+    margin: 0 15px;
+    text-decoration: none;
+    font-size: 18px;
+}
+/* Table styles */
+table {
+    width: 100%;
+    margin-top: 20px;
+}
+/* Table header and cell styles */
+th, td {
+    padding: 10px;
+    border: 1px solid #ccc;
+    text-align: left;
+}
+/* Table header specific styles */
+th {
+    background-color: #eee;
+}
